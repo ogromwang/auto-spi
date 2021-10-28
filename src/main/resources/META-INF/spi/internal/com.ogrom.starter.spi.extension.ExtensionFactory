@@ -1,0 +1,3 @@
+adaptive=com.ogrom.starter.spi.extension.factory.AdaptiveExtensionFactory
+spi=com.ogrom.starter.spi.extension.factory.SpiExtensionFactory
+spring=com.ogrom.starter.spi.extension.factory.SpringExtensionFactory

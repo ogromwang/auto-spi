@@ -1,0 +1,3 @@
+adaptive=com.ogrom.starter.spi.compiler.support.AdaptiveCompiler
+jdk=com.ogrom.starter.spi.compiler.support.JdkCompiler
+javassist=com.ogrom.starter.spi.compiler.support.JavassistCompiler
